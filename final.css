@@ -1,26 +1,26 @@
 
 .footer p { 
-	background-color: blueviolet;
+	background-color: dimgrey;
 	text-align: center;
 	font-size: 20px;
 	margin-bottom: 0;
 }
 p {
-  font-family: 'Times New Roman', serif;
+  font-family: 'Georgia', serif;
   font-size: 20px;
 }
 
 .header {
 	height: auto;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 30px;
 	text-align: center;
 	font-family: 'Georgia', serif;
 	background-color: lightcoral;
 }
 h4 {
 	font-style: italic;
-	font-size: 40px;
+	font-size: 25px;
 	font-family: 'Georgia', serif;
 }
 h3 {
